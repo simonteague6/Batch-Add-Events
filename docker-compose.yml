@@ -1,5 +1,5 @@
 services:
-  calendar-app:
+  batch-add-events:
     build: .
     ports:
       - "5485:5485"
